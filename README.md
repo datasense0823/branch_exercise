@@ -38,3 +38,32 @@ HARRY'S PATRONUS
           /_//_/           /_/   /_/
 
 ```
+8. Add and commit the changes, with the commit message "add harry's stag patronus"
+9. Move over to the `snape` branch using the "older" command to change branches.
+10.  Put the following text in  the `patronus.txt` file:
+
+```
+SNAPE'S PATRONUS
+                   .     _,
+                   |`\__/ /
+                   \  . .(
+                    | __T|
+                   /   |
+      _.---======='    |
+     //               {}
+    `|      ,   ,     {}
+     \      /___;    ,'
+      ) ,-;`    `\  //
+     | / (        ;||
+     ||`\\        |||
+     ||  \\       |||
+     )\   )\      )||
+     `"   `"      `""
+```
+
+
+
+
+
+
+
