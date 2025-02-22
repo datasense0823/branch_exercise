@@ -11,5 +11,7 @@ Imagine you're a developer at Hogwarts Tech, and your team is launching a new pr
 **Characters & Branches:**
 
 **1. Harry:** Represented on the harry branch, showcasing his stag Patronus.
+
 **2. Snape:** Represented on the snape branch, featuring his doe Patronus.
+
 **3. Lily:** Derived from Snape’s branch, but with a header change to reflect Lily’s Patronus on the lily branch.
