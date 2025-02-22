@@ -61,6 +61,14 @@ SNAPE'S PATRONUS
      `"   `"      `""
 ```
 
+11. Add and commit the changes on the `snape` branch with the commit message "add snape's doe patronus"
+12. Next, create a new branch based upon the `snape` branch called `lily`
+13. Move to the `lily` branch
+14. Edit the `patronus.txt` file so that it says `LILY'S PATRONUS` at the top instead of `SNAPE'S PATRONUS` (leave the doe ascii-art alone)
+15. Add and commit the change with the message "add lily's doe patronus"
+16. Run a git command to list all branches (you should see 4)
+17. Bonus: delete the snape branch (poor Snape)
+
 
 
 
